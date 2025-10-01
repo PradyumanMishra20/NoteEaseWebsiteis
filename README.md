@@ -1,6 +1,6 @@
 # NoteEase Website
 
-**Live Site:** [https://pradyumanmishra20.github.io/NoteEase/](https://pradyumanmishra20.github.io/NoteEase/)
+**Live Site:** [https://pradyumanmishra20.github.io/NoteEaseWebsiteis/)
 
 ---
 
